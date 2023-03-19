@@ -1,0 +1,12 @@
+D:\VS\cursach\cursach\bin\Release\cursach.exe.config
+D:\VS\cursach\cursach\bin\Release\cursach.exe
+D:\VS\cursach\cursach\bin\Release\cursach.pdb
+D:\VS\cursach\cursach\obj\Release\cursach.csproj.SuggestedBindingRedirects.cache
+D:\VS\cursach\cursach\obj\Release\cursach.Form1.resources
+D:\VS\cursach\cursach\obj\Release\cursach.Form2.resources
+D:\VS\cursach\cursach\obj\Release\cursach.Properties.Resources.resources
+D:\VS\cursach\cursach\obj\Release\cursach.csproj.GenerateResource.cache
+D:\VS\cursach\cursach\obj\Release\cursach.csproj.CoreCompileInputs.cache
+D:\VS\cursach\cursach\obj\Release\cursach.exe
+D:\VS\cursach\cursach\obj\Release\cursach.pdb
+D:\VS\cursach\cursach\obj\Release\cursach.csproj.AssemblyReference.cache

@@ -1,0 +1,12 @@
+D:\VS\cursach\cursach\bin\Debug\cursach.exe.config
+D:\VS\cursach\cursach\bin\Debug\cursach.exe
+D:\VS\cursach\cursach\bin\Debug\cursach.pdb
+D:\VS\cursach\cursach\obj\Debug\cursach.csproj.AssemblyReference.cache
+D:\VS\cursach\cursach\obj\Debug\cursach.csproj.SuggestedBindingRedirects.cache
+D:\VS\cursach\cursach\obj\Debug\cursach.Form1.resources
+D:\VS\cursach\cursach\obj\Debug\cursach.Properties.Resources.resources
+D:\VS\cursach\cursach\obj\Debug\cursach.csproj.GenerateResource.cache
+D:\VS\cursach\cursach\obj\Debug\cursach.csproj.CoreCompileInputs.cache
+D:\VS\cursach\cursach\obj\Debug\cursach.exe
+D:\VS\cursach\cursach\obj\Debug\cursach.pdb
+D:\VS\cursach\cursach\obj\Debug\cursach.Form2.resources
