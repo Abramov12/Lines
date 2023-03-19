@@ -19,4 +19,4 @@ To play, you need to select the desired cell and move it to the white field. For
 
 The game ends when there are less than 4 white squares on the whole field.
 
-Translated with www.DeepL.com/Translator (free version)
+
